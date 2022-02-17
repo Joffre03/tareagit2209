@@ -1,1 +1,1 @@
-class hola{}
+class hola{int eadad;}
